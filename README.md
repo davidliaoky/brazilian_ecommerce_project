@@ -39,7 +39,7 @@ Star schema with:
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/brazilian_ecommerce_project.git
+git clone https://github.com/davidliaoky/brazilian_ecommerce_project.git
 cd brazilian_ecommerce_project
 ```
 
