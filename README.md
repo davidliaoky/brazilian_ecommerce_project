@@ -63,7 +63,7 @@ dbt docs serve
 
 ## 📊 Data Analysis (Python)
 
-Performed in [notebooks/Step_5_Data_Analysis_Python_Notebook.ipynb](notebooks/Step_5_Data_Analysis_Python_Notebook.ipynb), including:
+Performed in [notebooks/Data_Analysis.ipynb](notebooks/Data_Analysis.ipynb), including:
 - Monthly revenue trends
 - Top-selling products
 - Customer lifetime value distribution
@@ -116,4 +116,4 @@ dbt docs generate && dbt docs serve
 
 ---
 
-©️ Developed for educational use as part of a Data Engineering assignment.
+©️ Developed as part of a Data Engineering assignment.
